@@ -81,8 +81,8 @@ ul  {
 	padding-left:23px;
 }
 
-#list p:last {
-	margin-bottom:0px;
+#list p:last-child {
+	margin-bottom:8px;
 }
 
 #projects {
